@@ -1,0 +1,25 @@
+{
+  "name": "legacy-react-0.14.7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptwlo/react_v0.14.7.git"
+  },
+  "author": "Petter Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptwlo/react_v0.14.7/issues"
+  },
+  "homepage": "https://github.com/ptwlo/react_v0.14.7#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "httpster": "^1.0.4",
+    "nodemon": "^2.0.2",
+    "react-redux": "^7.2.0"
+  }
+}
