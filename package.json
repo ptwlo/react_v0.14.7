@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ptwlo/react_v0.14.7#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "httpster": "^1.0.4",
     "nodemon": "^2.0.2",
     "react-redux": "^7.2.0"
